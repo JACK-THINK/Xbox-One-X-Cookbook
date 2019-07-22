@@ -116,11 +116,11 @@
 
 1. 将替换硬盘连接至Xbox One X，此时不能组装其它部件
 2. 接通电源，开机（使用主机开关或手柄西瓜键均可）
-3. 看到“System Error: E106 00000009 80070002”错误提示后，用手柄方向键（不是摇杆）选择“Troubleshoot”——“Reset this Xbox”——“Remove everything”并按“A”，重启Xbox One X，约60秒
-4. 看到“System Error: E106 00000009 80070003”错误提示后，用手柄方向键（不是摇杆）选择“Troubleshoot”，此时“Offline system update”为灰色
-5. 通过后置USB接口将Xbox One系统恢复U盘连接至Xbox One X，此时“Offline system update”变为黑色，用手柄方向键（不是摇杆）选择“Offline system update”并按“A”，等待系统恢复完成
+3. 看到`System Error: E106 00000009 80070002`错误提示后，用手柄方向键（不是摇杆）选择“Troubleshoot”——“Reset this Xbox”——“Remove everything”并按`A`，重启Xbox One X，约60秒
+4. 看到`System Error: E106 00000009 80070003`错误提示后，用手柄方向键（不是摇杆）选择“Troubleshoot”，此时“Offline system update”为灰色
+5. 通过后置USB接口将Xbox One系统恢复U盘连接至Xbox One X，此时“Offline system update”变为黑色，用手柄方向键（不是摇杆）选择“Offline system update”并按`A`，等待系统恢复完成
 6. 系统恢复成功并自动重启后，进入Xbox One X首次开机激活程序（国行机为中文界面）。用网线将Xbox One X接入网络，按屏幕提示激活系统
 7. 激活成功后，完全关机Xbox One X，切断电源，取出替换硬盘
-8. 将替换硬盘连接至计算机，将Xbox One X开机动画[bootanim.dat](https://drive.google.com/open?id=1BKcee5bhNLugNkGsMjTV6kS1C5YxCW5H)复制到分区“X:\System Update\A”和“X:\System Update\B”目录中
+8. 将替换硬盘连接至计算机，将Xbox One X开机动画[bootanim.dat](https://drive.google.com/open?id=1BKcee5bhNLugNkGsMjTV6kS1C5YxCW5H)复制到分区`System Update (X:)\A`和`System Update (X:)\B`目录中
 9. 弹出替换硬盘并再次将其连接至Xbox One X，通电开机
 10. 看到启动动画并启动无误后，切断电源，并参考[Xbox One X 内置硬盘更换指南 硬件部分](https://zh.ifixit.com/Guide/Xbox+One+X+%E5%86%85%E7%BD%AE%E7%A1%AC%E7%9B%98%E6%9B%B4%E6%8D%A2%E6%8C%87%E5%8D%97/124893)，组装Xbox One X。至此，全流程结束
