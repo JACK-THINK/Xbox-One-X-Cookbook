@@ -14,7 +14,7 @@
 
 ## 准备工作
 
-1. 参考[Xbox One X 内置硬盘更换指南 硬件部分](https://zh.ifixit.com/Guide/Xbox+One+X+%E5%86%85%E7%BD%AE%E7%A1%AC%E7%9B%98%E6%9B%B4%E6%8D%A2%E6%8C%87%E5%8D%97/124893)，将Xbox One X拆开并取出原装机械硬盘
+1. 参考[Xbox One X 内置硬盘更换指南 硬件部分](./Xbox_One_Internal_Hard_Drive_Repair_or_Replace_Using_Windows_(Hardware).pdf)，将Xbox One X拆开并取出原装机械硬盘
 
 2. 制作Xbox One系统恢复U盘
 
@@ -123,4 +123,4 @@
 7. 激活成功后，完全关机Xbox One X，切断电源，取出替换硬盘
 8. 将替换硬盘连接至计算机，将Xbox One X开机动画[bootanim.dat](https://drive.google.com/open?id=1BKcee5bhNLugNkGsMjTV6kS1C5YxCW5H)复制到目录`System Update (X:)\A`和`System Update (X:)\B`中
 9. 弹出替换硬盘并再次将其连接至Xbox One X，通电开机
-10. 看到启动动画并启动无误后，切断电源，并参考[Xbox One X 内置硬盘更换指南 硬件部分](https://zh.ifixit.com/Guide/Xbox+One+X+%E5%86%85%E7%BD%AE%E7%A1%AC%E7%9B%98%E6%9B%B4%E6%8D%A2%E6%8C%87%E5%8D%97/124893)，组装Xbox One X。至此，全流程结束
+10. 看到启动动画并启动无误后，切断电源，并参考[Xbox One X 内置硬盘更换指南 硬件部分](./Xbox_One_Internal_Hard_Drive_Repair_or_Replace_Using_Windows_(Hardware).pdf)，组装Xbox One X。至此，全流程结束
